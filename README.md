@@ -29,6 +29,20 @@ npx ts-node quest1.ts SECRET_KEY
 - [SDK Docs Account](https://stellar.github.io/js-stellar-sdk/Account.html)
 - [Stellar XDR Data Format](https://developers.stellar.org/docs/learn/encyclopedia/data-format/xdr)
 
+## Quest 2:  Send Payment
+
+https://quest.stellar.org/learn/series/1/quest/2
+
+The script to send a payment.
+
+Parameters:
+- SECRET_KEY (required)
+
+Command:
+```
+npx ts-node quest2.ts SECRET_KEY
+```
+
 ----
 
 ## Support
